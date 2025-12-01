@@ -1,0 +1,32 @@
+{
+  "name": "pedidos-api-jitterbit",
+  "version": "1.0.0",
+  "description": "API completa de gerenciamento de pedidos para teste Jitterbit",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "pedidos",
+    "jitterbit",
+    "sqlite",
+    "nodejs",
+    "teste-tecnico"
+  ],
+  "author": "Yan Matheus <ymatheus706@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanmathzz/pedidos-api-jitterbit.git"
+  }
+}
