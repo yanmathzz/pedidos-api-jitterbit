@@ -342,8 +342,7 @@ Este projeto foi desenvolvido especificamente para o **Teste Teórico de Profess
 - Tratamento de erros e validações
 - Versionamento com Git/GitHub
 
-**Data de Desenvolvimento:** [Data Atual]  
-**Tempo de Desenvolvimento:** [X horas]  
+**Data de Desenvolvimento:** 30/11/2025
 **Status:** ✅ Completo e pronto para avaliação
 
 ## 🤝 Contribuição
