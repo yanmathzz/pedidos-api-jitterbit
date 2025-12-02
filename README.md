@@ -325,8 +325,7 @@ pedidos-api-jitterbit/
 
 ## 👨‍💻 Autor
 
-**Yan Matheus Pinheiro**  
-🎯 Candidato à vaga de Professional Services na Jitterbit  
+**Yan Matheus Pinheiro**    
 📧 Email: ymatheus706@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/yan-matheus-361b6b235](www.linkedin.com/in/yan-matheus-361b6b235)  
 🐙 GitHub: [github.com/yanmathzz](https://github.com/yanmathzz)
@@ -343,6 +342,7 @@ Este projeto foi desenvolvido especificamente para o **Teste Teórico de Profess
 - Versionamento com Git/GitHub
 
 **Data de Desenvolvimento:** 30/11/2025
+
 **Status:** ✅ Completo e pronto para avaliação
 
 ## 🤝 Contribuição
